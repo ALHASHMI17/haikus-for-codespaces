@@ -1,0 +1,8 @@
+{
+  "name": "SaaSify Plugin Engine",
+  "id": "saasify-plugin-engine",
+  "api": "1.0.0",
+  "main": "figma_plugin_code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"]
+}
